@@ -21,9 +21,11 @@
   "homepage": "https://github.com/angular-in-action/hello-world#readme",
   "dependencies": {
     "angular2": "2.0.0-alpha.37",
+    "babel-loader": "^5.3.2",
     "express": "4.13.1",
     "reflect-metadata": "0.1.0",
     "systemjs": "0.18.4",
+    "ts-loader": "^0.5.5",
     "yahoo-finance": "0.2.11",
     "zone.js": "0.5.2"
   },
